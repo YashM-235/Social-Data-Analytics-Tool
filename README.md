@@ -62,7 +62,7 @@
 1. **Compile the code**:
 
    ```bash
-   g++ -o feedback_analyzer main.cpp
+   g++ -o Social Data Analytics Tool.cpp
    ```
 
 2. **Run the executable**:
